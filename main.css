@@ -39,7 +39,7 @@ header li a:hover {
     text-decoration: underline; 
 }
 
-.container {
+.container , h2 {
     max-width: 1280px;
     width: 100%;
     margin: 0 auto;
@@ -87,7 +87,7 @@ section p {
 }
 
 .contact-methods {
-    display: flex;
+    display: block;
     justify-content: space-between;
 }
 
