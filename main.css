@@ -83,7 +83,7 @@ section p {
 }
 
 #contact .container {
-    display: block;
+    display: flex;
 }
 
 .contact-methods {
